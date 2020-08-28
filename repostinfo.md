@@ -4,6 +4,6 @@
   "niadd" : "savevideo.ninja/wp-admin/admin-ajax.php?action=wppress_svd_download&url=%@&key=vid-no-watermark",
   "isnija":"false",
   "isadsfirst":"true",
-  "isguoqi":"true",
+  "isguoqi":"false",
   "ischkfirst":"false",
 }</span>
