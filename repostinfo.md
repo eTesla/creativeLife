@@ -9,6 +9,6 @@
   "isadsfirst":"true",
   "isguoqi":"false",
   "ischkfirst":"true",
-  "iscommforul":"true",
-  "iscommfortime":"true",
+  "iscommforul":"false",
+  "iscommfortime":"false",
 }</span>
