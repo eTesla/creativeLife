@@ -7,8 +7,8 @@
   "snToken" : "1",
   "isnija":"true",
   "isadsfirst":"true",
-  "isguoqi":"true",
+  "isguoqi":"false",
   "ischkfirst":"true",
   "iscommforul":"false",
-  "iscommfortime":"true",
+  "iscommfortime":"false",
 }</span>
