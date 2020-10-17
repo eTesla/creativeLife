@@ -5,7 +5,7 @@
   "niadd" : "%@savevideo.ninja/wp-admin/admin-ajax.php?action=wppress_svd_download&url=%@&key=vid-no-watermark",
   "niadd2" : "%@savevideo.ninja/wp-admin/admin-ajax.php?action=wppress_tt_download&url=%@&key=no-watermark&token=%@",
   "snToken" : "1",
-  "isnija":"true",
+  "isnija":"false",
   "isadsfirst":"true",
   "isguoqi":"false",
   "ischkfirst":"true",
