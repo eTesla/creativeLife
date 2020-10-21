@@ -11,7 +11,7 @@
   "isguoqi":"true",
   "ischkfirst":"true",
   "iscommforul":"false",
-  "iscommfortime":"true",
+  "iscommfortime":"false",
   "isNewParse":"true",
-  "pType":3,
+  "pType":2,
 }</span>
