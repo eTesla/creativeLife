@@ -12,5 +12,5 @@
   "iscommforul":"false",
   "iscommfortime":"true",
   "isNewParse":"true",
-  "pType":2,
+  "pType":3,
 }</span>
