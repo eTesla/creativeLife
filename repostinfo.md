@@ -1,7 +1,8 @@
 <span id = 'versionData'>data = {
   "appId" : "",
   "version" : "1.0.5",
-  "rapapikey" : "YXbckBX95r/ble2guXdb+79M9paVoBXFlQNjAlwOZfSn3hrA0Ds4BepKBORedWMhnckhFkLkQ521WndqbAYA2w==",
+  "rapapikey" : "MZ6fr60LHQ9vSWNxiTYcs1EDX8IgIDUWzFO3Ql8cTq2+Kjf7fcPVcppuEbLhzzuoRssFRj0Gh66DpT02+YAylQ==",
+  "rapapikey2" : "BkDPHBO80m4lLs6dK8/aacsO7yqmMOTI3CQPkh8Zdcj4aLwd7v9T2KPb44YDt/fdgNgV/JnvssRck5X6Ln/zuw==",
   "niadd" : "%@savevideo.ninja/wp-admin/admin-ajax.php?action=wppress_svd_download&url=%@&key=vid-no-watermark",
   "niadd2" : "%@savevideo.ninja/wp-admin/admin-ajax.php?action=wppress_tt_download&url=%@&key=no-watermark&token=%@",
   "snToken" : "1",
