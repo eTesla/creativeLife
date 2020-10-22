@@ -12,6 +12,8 @@
   "ischkfirst":"false",
   "iscommforul":"false",
   "iscommfortime":"true",
+  "ruatype":1,
+  "ruakey":"123",
   "isNewParse":"true",
   "pType":3,
 }</span>
