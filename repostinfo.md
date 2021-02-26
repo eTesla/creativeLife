@@ -17,4 +17,5 @@
   "ruakey":"133",
   "isNewParse":"true",
   "pType":2,
+  "realForSK":"true",
 }</span>
