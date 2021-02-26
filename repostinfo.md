@@ -18,4 +18,5 @@
   "isNewParse":"true",
   "pType":2,
   "realForSK":"true",
+  "freetime":3,
 }</span>
