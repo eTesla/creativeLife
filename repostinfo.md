@@ -12,7 +12,7 @@
   "ischkfirst":"false",
   "iscommforul":"false",
   "iscommfortime":"true",
-  "isrua":"false",
+  "isrua":"true",
   "ruatype":2,
   "ruakey":"133",
   "isNewParse":"true",
