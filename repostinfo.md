@@ -13,7 +13,7 @@
   "iscommforul":"false",
   "iscommfortime":"true",
   "isrua":"false",
-  "ruatype":1,
+  "ruatype":2,
   "ruakey":"133",
   "isNewParse":"true",
   "pType":1,
