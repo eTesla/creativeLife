@@ -16,5 +16,5 @@
   "ruatype":2,
   "ruakey":"133",
   "isNewParse":"true",
-  "pType":1,
+  "pType":2,
 }</span>
