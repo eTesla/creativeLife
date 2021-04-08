@@ -16,7 +16,7 @@
   "ruatype":2,
   "ruakey":"133",
   "isNewParse":"true",
-  "pType":3,
+  "pType":2,
   "realForSK":"false",
   "freetime":3,
 }</span>
