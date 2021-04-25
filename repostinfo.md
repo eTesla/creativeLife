@@ -5,7 +5,7 @@
   "rapapikey2" : "BkDPHBO80m4lLs6dK8/aacsO7yqmMOTI3CQPkh8Zdcj4aLwd7v9T2KPb44YDt/fdgNgV/JnvssRck5X6Ln/zuw==",
   "niadd" : "%@snaptik.app/action.php?lang=en",
   "niadd2" : "%@savevideo.ninja/wp-admin/admin-ajax.php?action=wppress_tt_download&url=%@&key=no-watermark&token=%@",
-  "snCookie" : "d-khons=befc95f740af9dc6dd8c058c84ef044d;",
+  "snCk" : "d-khons=befc95f740af9dc6dd8c058c84ef044d;",
   "snToken" : "1",
   "isnija":"false",
   "isadsfirst":"true",
