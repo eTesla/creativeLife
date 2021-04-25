@@ -19,5 +19,6 @@
   "pType":4,
   "sptType":0,
   "realForSK":"false",
+  "myserForVid":"false",
   "freetime":3,
 }</span>
