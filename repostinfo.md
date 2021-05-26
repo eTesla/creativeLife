@@ -10,7 +10,7 @@
   "isnija":"false",
   "isadsfirst":"true",
   "isguoqi":"true",
-  "ischkfirst":"false",
+  "ischkfirst":"true",
   "iscommforul":"false",
   "iscommfortime":"true",
   "isrua":"false",
