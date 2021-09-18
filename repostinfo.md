@@ -8,7 +8,7 @@
   "snCk" : "d-khons=befc95f740af9dc6dd8c058c84ef044d;",
   "snToken" : "1",
   "isnija":"false",
-  "isadsfirst":"true",
+  "isadsfirst":"false",
   "isguoqi":"true",
   "ischkfirst":"false",
   "iscommforul":"false",
