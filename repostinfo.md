@@ -17,7 +17,7 @@
   "ruatype":2,
   "ruakey":"133",
   "isNewParse":"true",
-  "pType":3,
+  "pType":5,
   "sptType":0,
   "realForSK":"false",
   "myserForVid":"false",
