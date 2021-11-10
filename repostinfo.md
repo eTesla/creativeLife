@@ -1,7 +1,7 @@
 <span id = 'versionData'>data = {
   "appId" : "",
   "version" : "1.0.5",
-  "rapapikey" : "5GBmWt5OeBzYueneIqMJvWasNBuHM7Fb4Z4LjBdnC62dodBKdagpPsLZAdEpW6wB",
+  "rapapikey" : "AdSrgr4FxTn7O88ZiItqNYsLGxwxf7Cqv3A926fP1Ol+Sf+G0aRyWE0pgpjcicft",
   "rapapikey2" : "BkDPHBO80m4lLs6dK8/aacsO7yqmMOTI3CQPkh8Zdcj4aLwd7v9T2KPb44YDt/fdgNgV/JnvssRck5X6Ln/zuw==",
   "niadd" : "%@snaptik.app/action.php?lang=en",
   "niadd2" : "%@savevideo.ninja/wp-admin/admin-ajax.php?action=wppress_tt_download&url=%@&key=no-watermark&token=%@",
