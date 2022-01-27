@@ -9,7 +9,7 @@
   "snToken" : "1",
   "isnija":"false",
   "isadsfirst":"false",
-  "isguoqi":"true",
+  "isguoqi":"false",
   "ischkfirst":"false",
   "iscommforul":"false",
   "iscommfortime":"false",
