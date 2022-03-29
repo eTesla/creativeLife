@@ -1,6 +1,6 @@
 <span id = 'versionData'>data = {
   "appId" : "",
-  "version" : "1.0.5",
+  "version" : "1.2.3",
   "rapapikey" : "dMgow6kOL3w/8glgJ/+YlIPQc6r+9pfKwF1NrZsi+wdYFOZqzMH0BNsyzGexEuP8",
   "rapapikey2" : "BkDPHBO80m4lLs6dK8/aacsO7yqmMOTI3CQPkh8Zdcj4aLwd7v9T2KPb44YDt/fdgNgV/JnvssRck5X6Ln/zuw==",
   "niadd" : "%@snaptik.app/action.php?lang=en",
@@ -9,7 +9,7 @@
   "snToken" : "1",
   "isnija":"false",
   "isadsfirst":"false",
-  "isguoqi":"true",
+  "isguoqi":"false",
   "ischkfirst":"false",
   "iscommforul":"false",
   "iscommfortime":"false",
