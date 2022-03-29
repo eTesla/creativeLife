@@ -21,5 +21,6 @@
   "sptType":0,
   "realForSK":"false",
   "myserForVid":"false",
+  "parseWithVid":"true",
   "freetime":3,
 }</span>
