@@ -22,5 +22,6 @@
   "realForSK":"false",
   "myserForVid":"false",
   "parseWithVid":"true",
+  "isSSv":"false",
   "freetime":3,
 }</span>
