@@ -24,7 +24,7 @@
   "myserForVid":"false",
   "parseWithVid":"true",
   "isJustParseUrl":"true",
-  "isJustForRV":"true",
+  "isJustForRV":"false",
   "isSSv":"true",
   "freetime":3,
 }</span>
